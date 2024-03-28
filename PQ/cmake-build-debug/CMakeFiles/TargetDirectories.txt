@@ -1,0 +1,3 @@
+C:/Users/Bogdan/Desktop/ETTI/An 2 - Sem 1/SDA/PQ/cmake-build-debug/CMakeFiles/PQ.dir
+C:/Users/Bogdan/Desktop/ETTI/An 2 - Sem 1/SDA/PQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bogdan/Desktop/ETTI/An 2 - Sem 1/SDA/PQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
